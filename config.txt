@@ -3,7 +3,7 @@
 # 公众号appId
 "app_id": "wx521a2c281c2e5a73",
 # 公众号appSecret
-"app_secret": "0bace2895aea883dab050f60242abb76
+"app_secret": "ad671ab02725992b127ee1b1313180cc
 ",
 # 模板消息id
 "template_id": "LvpCjOrom325txU-k2O1EFiItcP6AvO_4RmLXy4lHao",
